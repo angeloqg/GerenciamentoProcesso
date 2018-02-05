@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html ng-app="MyApp">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <script src="~/Scripts/angular.js"></script>
+
+    <script src="~/Angular_App/AppJs.js"></script>
+</head>
+<body ng-controller="MyCtrl">
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery.maskedinput.min.js"></script>
+    <script src="~/Scripts/jquery.maskMoney.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#cnpjEmpresa").mask("99.999.999/9999-99")
+            $("#dataInicio").mask("99/99/9999");
+            $("#valorProcesso").maskMoney({ showSymbol: true, symbol: "R$", decimal: ",", thousands: "." });
+            $("#campo10").maskMoney({ showSymbol: true, symbol: "R$", decimal: ",", thousands: "." });
+        });
+    </script>
+</body>
+</html>

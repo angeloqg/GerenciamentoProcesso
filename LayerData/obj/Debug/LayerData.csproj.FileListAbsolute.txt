@@ -1,0 +1,8 @@
+C:\Users\angel\Desktop\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerData\bin\Debug\LayerData.dll.config
+C:\Users\angel\Desktop\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerData\bin\Debug\LayerData.dll
+C:\Users\angel\Desktop\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerData\bin\Debug\LayerData.pdb
+C:\Users\angel\Desktop\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerData\bin\Debug\LayerDomain.dll
+C:\Users\angel\Desktop\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerData\bin\Debug\LayerDomain.pdb
+C:\Users\angel\Desktop\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerData\obj\Debug\LayerData.csprojResolveAssemblyReference.cache
+C:\Users\angel\Desktop\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerData\obj\Debug\LayerData.dll
+C:\Users\angel\Desktop\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerData\obj\Debug\LayerData.pdb
