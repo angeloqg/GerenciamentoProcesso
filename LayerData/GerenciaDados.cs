@@ -13,11 +13,6 @@ namespace LayerData
     {
         string arquivo = String.Empty;
 
-        public GerenciaDados()
-        {
-
-        }
-
         public GerenciaDados(string arquivo)
         {
             this.arquivo = arquivo;

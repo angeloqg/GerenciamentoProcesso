@@ -7,3 +7,12 @@ C:\Users\angel\Desktop\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciament
 C:\Users\angel\Desktop\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerBusiness\bin\Debug\LayerDomain.dll
 C:\Users\angel\Desktop\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerBusiness\bin\Debug\LayerData.pdb
 C:\Users\angel\Desktop\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerBusiness\bin\Debug\LayerDomain.pdb
+C:\Users\angel\Desktop\Diversos Projetos - Provas\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerBusiness\bin\Debug\LayerBusiness.dll
+C:\Users\angel\Desktop\Diversos Projetos - Provas\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerBusiness\bin\Debug\LayerBusiness.pdb
+C:\Users\angel\Desktop\Diversos Projetos - Provas\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerBusiness\bin\Debug\LayerData.dll
+C:\Users\angel\Desktop\Diversos Projetos - Provas\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerBusiness\bin\Debug\LayerDomain.dll
+C:\Users\angel\Desktop\Diversos Projetos - Provas\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerBusiness\bin\Debug\LayerData.pdb
+C:\Users\angel\Desktop\Diversos Projetos - Provas\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerBusiness\bin\Debug\LayerDomain.pdb
+C:\Users\angel\Desktop\Diversos Projetos - Provas\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerBusiness\obj\Debug\LayerBusiness.csprojResolveAssemblyReference.cache
+C:\Users\angel\Desktop\Diversos Projetos - Provas\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerBusiness\obj\Debug\LayerBusiness.dll
+C:\Users\angel\Desktop\Diversos Projetos - Provas\Prova Técnica_Perlink\Prova_Perlink\Sistema_Gerenciamento_Processos\LayerBusiness\obj\Debug\LayerBusiness.pdb

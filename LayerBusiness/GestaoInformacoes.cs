@@ -9,9 +9,7 @@ namespace LayerBusiness
     public class GestaoInformacoes
     {
         string arquivo = String.Empty;
-        public GestaoInformacoes()
-        {
-        }
+
 
         public GestaoInformacoes(string arquivo)
         {
